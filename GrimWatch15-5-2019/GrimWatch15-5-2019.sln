@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrimWatch15-5-2019", "GrimWatch15-5-2019\GrimWatch15-5-2019.csproj", "{3CBE2747-2B60-46D1-817F-6968BB74D003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CBE2747-2B60-46D1-817F-6968BB74D003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CBE2747-2B60-46D1-817F-6968BB74D003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CBE2747-2B60-46D1-817F-6968BB74D003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CBE2747-2B60-46D1-817F-6968BB74D003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DD8E29A-EEC0-4073-9E68-21AEF7322112}
+	EndGlobalSection
+EndGlobal
